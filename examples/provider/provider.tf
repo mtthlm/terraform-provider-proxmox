@@ -1,3 +1,3 @@
-provider "scaffolding" {
+provider "proxmox" {
   # example configuration here
 }
